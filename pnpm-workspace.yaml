@@ -1,0 +1,7 @@
+savePrefix: ''
+saveExact: true
+packageManagerStrict: true
+managePackageManagerVersions: true
+engineStrict: true
+packages:
+  - 'tests'
