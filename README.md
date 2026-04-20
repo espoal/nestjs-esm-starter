@@ -63,3 +63,4 @@ $ pnpm run test:cov
 - target modules (type: module)
 - precommit
 - Remove rxjs and reflect-metadata
+- editorconfig
