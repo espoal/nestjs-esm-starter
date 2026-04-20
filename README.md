@@ -9,7 +9,7 @@ Install corepack:
 ```bash
 $ npm uninstall -g yarn pnpm
 $ npm install -g corepack
-$ corepack enable pnpm
+$ corepack enable pnpm@latest
 ```
 Install the dependencies:
 ```bash

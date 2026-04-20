@@ -1,8 +1,8 @@
 {
-  "name": "@nes/tests",
-  "version": "0.0.1",
-  "packageManager": "pnpm@10.33.0",
-  "scripts": {
-    "test": "node --test main.e2e.ts"
-  }
+	"name": "@nes/tests",
+	"version": "0.0.1",
+	"packageManager": "pnpm@10.33.0",
+	"scripts": {
+		"test": "node --test main.e2e.ts"
+	}
 }

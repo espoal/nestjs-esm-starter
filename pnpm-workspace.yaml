@@ -3,5 +3,6 @@ saveExact: true
 packageManagerStrict: true
 managePackageManagerVersions: true
 engineStrict: true
+useNodeVersion: 24.15.0
 packages:
   - 'tests'
